@@ -1,7 +1,7 @@
 {
   "data-source": {
     "database-type": "mssql",
-    "connection-string": "Server=tcp:crudcook.database.windows.net,1433;Initial Catalog=AdventureWorks;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Authentication="Active Directory Password";"
+    "connection-string": "Server=tcp:crudcook.database.windows.net,1433;Initial Catalog=AdventureWorks;Persist Security Info=False;User ID=newuser29;Password=Crudcook@123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Authentication="Active Directory Password";"
   },
   "entities": {
     "SalesOrderDetail": {
